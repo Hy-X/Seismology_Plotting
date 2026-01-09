@@ -1,0 +1,49 @@
+# ===============================
+# Python
+# ===============================
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+env/
+venv/
+.venv/
+
+# ===============================
+# Jupyter Notebook
+# ===============================
+# Ignore checkpoint folders
+.ipynb_checkpoints/
+
+# Ignore output of notebooks
+*.nbconvert.ipynb
+
+# ===============================
+# OS files
+# ===============================
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# ===============================
+# Logs and temporary files
+# ===============================
+*.log
+*.tmp
+*.bak
+
+# ===============================
+# Others
+# ===============================
+# Ignore coverage reports
+htmlcov/
+.coverage
+
+# Ignore pip cache
+pip-log.txt
+
