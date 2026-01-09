@@ -7,6 +7,7 @@ This repository contains example notebooks and scripts used to produce seismolog
 Files
 - `eqt-annotate-example.ipynb` — Example workflow for annotating earthquake catalogs.
 - `station-example-pygmt.ipynb` — Example station plotting using PyGMT.
+- `station-example-pygmt.py` — Python script version of the station plotting example.
 - `LICENSE` — Project license.
 
 Usage
@@ -14,6 +15,3 @@ Usage
 
 Contact
 - For questions, open an issue or contact the author.
-# Seismology_Plotting
-# Hongyu Xiao
-Here is the script that I used to make plots along with some of my tutorials 
