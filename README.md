@@ -9,17 +9,17 @@ catalog annotation tasks.
 
 Repository contents
 - CSV station lists:
-	- `appalachian_BH_HH_stations_2yr_plus.csv`
-	- `appalachian_BH_stations_1.5yr_plus.csv`
-	- `appalachian_BH_stations_2yr_plus.csv`
+	- `appalachian_bh_hh_stations_2yr_plus.csv`
+	- `appalachian_bh_stations_1_5yr_plus.csv`
+	- `appalachian_bh_stations_2yr_plus.csv`
 - Notebooks and examples:
-	- `eqt-annotate-example.ipynb` — earthquake catalog annotation workflow
-	- `find_appalachian_longterm_BH_stations.ipynb` — find long-term BH stations
-	- `find_appalachian_longterm_HH&BH_stations.ipynb` — HH & BH station search
-	- `station-example-pygmt.ipynb` — station plotting example using PyGMT
-	- `station-example-oklahoma-pygmt.ipynb` — Oklahoma station plotting example
+	- `eqt_annotate_example.ipynb` — earthquake catalog annotation workflow
+	- `find_appalachian_longterm_bh_stations.ipynb` — find long-term BH stations
+	- `find_appalachian_longterm_hh_and_bh_stations.ipynb` — HH and BH station search
+	- `station_example_pygmt.ipynb` — station plotting example using PyGMT
+	- `station_example_oklahoma_pygmt.ipynb` — Oklahoma station plotting example
 - Scripts:
-	- `station-example-pygmt.py` — Python script version of the PyGMT example
+	- `station_example_pygmt.py` — Python script version of the PyGMT example
 - Other:
 	- `LICENSE` — project license
 
